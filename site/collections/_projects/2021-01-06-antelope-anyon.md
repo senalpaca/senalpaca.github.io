@@ -14,4 +14,4 @@ CrashSim is a 2D simulation type of game, where the player will take on the role
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
-The game was designed, developed and created by four people, namely André Desch, Nomingerel Tsogtsaikhan, Sena Dogan and Süleyman Yalcinkaya. All four people were involved in every step of its creation and usability testing. The detailed report can be found here.
+The game was designed, developed and created by four people, namely André Desch, Nomingerel Tsogtsaikhan, Sena Dogan and Süleyman Yalcinkaya. All four people were involved in every step of its creation and usability testing. The detailed report can be found [here](https://docs.google.com/document/d/1A1-CC3SFgTppkqKm0xnZhdnuPmvPI_wGHDdImM9ioW8/edit#){: target="_blank" rel="noopener"}.
