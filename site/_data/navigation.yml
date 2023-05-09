@@ -1,0 +1,11 @@
+logo_image: ''
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: Projects
+      url: /projects/
+    - title: About
+      submenu:
+        - url: /about/
+          title: About
