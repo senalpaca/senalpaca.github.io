@@ -1,10 +1,10 @@
 ---
 date: 2023-01-01 04:40:00
-title: Mountains
-subtitle: Photography
-image: /images/project-4.jpg
+title: Sounds from Istanbul to Berlin
+subtitle: Ableton Live
+image: ''
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+Sounds from Istanbul to Berlin is a personal project that has been in progress since summer 2022.&nbsp;
 
 ![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
 
