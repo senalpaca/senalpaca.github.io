@@ -2,7 +2,7 @@
 date: 2018-04-01 00:00:00
 title: 'Data Visualization in VR '
 subtitle: Virtual Reality
-image: ''
+image: /uploads/screenshot-536.png
 ---
 This project was the first project of my studies. I was very interested in VR and&nbsp; not just wanted to gain practical knowledge about the development processes but also learn more about the VR technologies and its capabilities.&nbsp;
 
