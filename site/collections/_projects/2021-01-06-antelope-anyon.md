@@ -2,7 +2,7 @@
 date: 2020-04-01 00:00:00
 title: CrashSim
 subtitle: Serious Game/Educational Game
-image: /uploads/screenshot-515.png
+image: /uploads/screen-shot-2020-05-19-at-11-45-20-am.png
 ---
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/screenshot-515-1.png){: width="479" height="153"}
 
