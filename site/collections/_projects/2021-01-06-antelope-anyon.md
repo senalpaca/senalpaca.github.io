@@ -12,4 +12,8 @@ The motivation behind this project was to create an educational game to represen
 
 CrashSim is a 2D simulation type of game, where the player will take on the role of a specialist who works in the IT Forensics, specifically in the traffic accident reconstruction field. It’s a single-player game, that is designed for PC. The purpose of the character is to correctly reconstruct an accident and solve the case. With CrashSim the goal was to introduce the interdisciplinary field called car accident forensics to the user and simulate a very simple experience of being a forensic expert in this field. In order to integrate the interdisciplinarity there were other aspects involved such as conversations with different experts like lawyers, police officers or witness interviews. The game was created using Unity.
 
-The game was designed, developed and created by four people, namely André Desch, Nomingerel Tsogtsaikhan, Sena Dogan and Süleyman Yalcinkaya. All four people were involved in every step of its creation and usability testing. The detailed report can be found [here](https://docs.google.com/document/d/1A1-CC3SFgTppkqKm0xnZhdnuPmvPI_wGHDdImM9ioW8/edit#){: target="_blank" rel="noopener"}.
+[Watch the gameplay here.](https://drive.google.com/file/d/1N8uD3bltdlrvRLDVfxE9rr7IGbxlHsuo/view?usp=sharing){: target="_blank" rel="noopener"}
+
+![](/uploads/screenshot-535.png){: width="646" height="359"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A screenshot of the gameplay.&nbsp;
+
+The game was designed, developed, created&nbsp; and evaluated by four people, namely André Desch, Nomingerel Tsogtsaikhan, Sena Dogan and Süleyman Yalcinkaya. All four people were involved in every step of its implementation and usability testing. The detailed report can be found [here](https://docs.google.com/document/d/1A1-CC3SFgTppkqKm0xnZhdnuPmvPI_wGHDdImM9ioW8/edit#){: target="_blank" rel="noopener"}.
