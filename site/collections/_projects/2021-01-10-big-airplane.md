@@ -2,7 +2,7 @@
 date: 2023-01-01 00:00:00
 title: Photography
 subtitle: Film Photography
-image: ''
+image: /uploads/camera-roll-fill0-wght400-grad0-opsz48.png
 ---
 Here are some of my personal works throughout years…
 
